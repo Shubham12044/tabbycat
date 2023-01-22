@@ -1,8 +1,8 @@
 {
   "name": "tabbycat",
   "description": "Debating tabulation software for two-team parliamentary formats",
-  "scripts": {"start": "node server.js"
-}
+  "scripts": {"start": "react-scripts start"
+             }
 "serve": "npm-run-all -p serve-*",
 
 
