@@ -2,10 +2,7 @@
   "name": "tabbycat",
   "description": "Debating tabulation software for two-team parliamentary formats",
   "scripts": {
-    "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"}
+   }
     "serve": "npm-run-all -p serve-*",
     "build": "NODE_ENV='production' npm-run-all -p build-* cp-*",
     "lint": "pre-commit run --all-files",
